@@ -1,0 +1,18 @@
+.addservice form{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
+
+.addservice form input,
+textarea{
+    width: 40%;
+    margin-bottom: 10px;
+}
+.submit-button{
+    background-color: tomato;
+    border:none;
+    color: #fff;
+    font-weight: 700;
+}
